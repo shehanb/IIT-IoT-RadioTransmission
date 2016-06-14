@@ -12,17 +12,13 @@ void setup()
     pinMode(led_pin, OUTPUT);
 }
 
-byte count = 1;
 
 void loop()
 {
   char msg[7] = {'0','7','7','1','0','0','7'};
-
-  msg[6] = count;
   digitalWrite(led_pin, HIGH); // Flash a light to show transmitting
   vw_send((uint8_t *)msg, 7);
   vw_wait_tx(); // Wait until the whole message is gone
   digitalWrite(led_pin, LOW);
   delay(1000);
-  count = count + 1;
 }
