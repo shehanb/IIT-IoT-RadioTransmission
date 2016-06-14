@@ -18,7 +18,9 @@ Velocity :  less than 10Kbps
 
 So this module will transmit up to 90m in open area .
 
-315/433Mhz Reciever :
+
+
+315/433Mhz Reciever 
 
 ![alt tag](http://cdn.instructables.com/F8T/43EW/HM8DG3Q4/F8T43EWHM8DG3Q4.MEDIUM.jpg)
 
@@ -33,6 +35,8 @@ Sensitivity: excel –100dBm (50Ω)
 Transmitting velocity: <9.6Kbps (at 315MHz and -95dBm)
 
 the use of an optional antenna will increase the effectiveness of your wireless communication. A simple wire will do the trick.
+
+
 
 ![alt tag](http://cdn.instructables.com/FIT/MUZG/HM8DG0TF/FITMUZGHM8DG0TF.MEDIUM.jpg)
 
@@ -49,6 +53,8 @@ Receiver :
 Vcc>>>>5V
 Data>>>D12
 Gnd>>>Gnd
+
+
 
 Arduino Library : https://www.pjrc.com/teensy/arduino_libraries/VirtualWire.zip
 
