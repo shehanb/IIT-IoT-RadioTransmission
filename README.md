@@ -37,10 +37,9 @@ Transmitting velocity: <9.6Kbps (at 315MHz and -95dBm)
 the use of an optional antenna will increase the effectiveness of your wireless communication. A simple wire will do the trick.
 
 
-
-![alt tag](http://cdn.instructables.com/FIT/MUZG/HM8DG0TF/FITMUZGHM8DG0TF.MEDIUM.jpg)
-
 WIRING
+
+![alt tag](http://cdn.instructables.com/FZH/IW05/HM8DG0TI/FZHIW05HM8DG0TI.MEDIUM.jpg)
 
 Transmitter :
 
@@ -49,6 +48,8 @@ Vcc >>>>5V
 ATAD>>>D12"You can change it as you like from Software" .
 
 Gnd >>> Gnd
+
+![alt tag](http://cdn.instructables.com/FIT/MUZG/HM8DG0TF/FITMUZGHM8DG0TF.MEDIUM.jpg)
 
 Receiver :
 
@@ -63,6 +64,8 @@ Gnd>>>Gnd
 
 
 Arduino Library : https://www.pjrc.com/teensy/arduino_libraries/VirtualWire.zip
+
+Referenced By : http://www.instructables.com/id/RF-315433-MHz-Transmitter-receiver-Module-and-Ardu/?ALLSTEPS
 
 
 
