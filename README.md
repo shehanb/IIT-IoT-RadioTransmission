@@ -45,13 +45,17 @@ WIRING
 Transmitter :
 
 Vcc >>>>5V
+
 ATAD>>>D12"You can change it as you like from Software" .
+
 Gnd >>> Gnd
 
 Receiver :
 
 Vcc>>>>5V
+
 Data>>>D12
+
 Gnd>>>Gnd
 
 
