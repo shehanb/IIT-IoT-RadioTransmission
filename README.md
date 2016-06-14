@@ -18,7 +18,7 @@ Velocity :  less than 10Kbps
 
 So this module will transmit up to 90m in open area .
 
-315/433Mhz Reciever
+315/433Mhz Reciever :
 
 ![alt tag](http://cdn.instructables.com/F8T/43EW/HM8DG3Q4/F8T43EWHM8DG3Q4.MEDIUM.jpg)
 
@@ -36,7 +36,9 @@ the use of an optional antenna will increase the effectiveness of your wireless 
 
 ![alt tag](http://cdn.instructables.com/FIT/MUZG/HM8DG0TF/FITMUZGHM8DG0TF.MEDIUM.jpg)
 
-for Transmitter :
+WIRING
+
+Transmitter :
 
 Vcc >>>>5V
 ATAD>>>D12"You can change it as you like from Software" .
